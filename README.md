@@ -1,5 +1,5 @@
 - 👋 Hey, I’m @eremeir on GitHub.
-- 🏫 I'm a Computer Science Undergraduate expecting to graduate this year.
+- 🏫 I'm a new Computer Science Bachelor's graduate.
 - 🌱 I'm currently studying Unity, C#, Javascript, and backend development.
 
 
