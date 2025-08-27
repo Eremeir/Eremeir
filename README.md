@@ -1,6 +1,6 @@
 - 👋 Hey, I’m @eremeir on GitHub.
-- 🏫 I'm a new Computer Science Bachelor's graduate.
-- 🌱 I'm currently studying Golang, Godot, Javascript, and backend development.
+- 🏫 I'm a Computer Science Masters's student.
+- 🌱 I'm currently studying Typescript, Lua, and backend development.
 
 
 ![](https://komarev.com/ghpvc/?username=eremeir&style=flat&label=Profile+Views)
